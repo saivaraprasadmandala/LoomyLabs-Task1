@@ -95,7 +95,7 @@ npm start
 ```
 
 ## Deployment
-The application is deployed on Vercel: [your-deployment-url]
+The application is deployed on Vercel: [[Deployed Link](https://loomy-labs-task1.vercel.app/)]
 
 ## Assessment Context
 This project was developed as part of the LoomyLabs.tech technical assessment process. The implementation focuses on:
